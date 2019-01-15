@@ -1,0 +1,24 @@
+{
+  "name": "bluebird_object_orientated_promisification",
+  "version": "0.1.0",
+  "description": "Blue Bird Object Orientated Promisification",
+  "main": "BlueBirdPromisification.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyolis/BlueBirdObjectOrientatedPromisification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/wesleyolis/BlueBirdObjectOrientatedPromisification#readme",
+  "dependencies": {
+    "@types/bluebird": "^3.5.25",
+    "bluebird": "^3.5.3",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.2.*"
+  }
+}
